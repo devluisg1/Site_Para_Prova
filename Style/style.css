@@ -1,0 +1,85 @@
+.ft{
+    color: darkorange;
+    text-align: center;
+    font-size: xx-large;
+}
+.fp{
+    color:darkcyan;
+    text-align: center;
+    font-size: large;
+}
+body{
+    background-color: blanchedalmond;
+}
+.imagem{
+    text-align: center;
+}
+.foot{
+    text-align: center;
+    color:black;
+    background-color: white;
+}
+.button1{
+    text-align: center;
+    font-size: x-large;
+    margin: 10cm;
+
+}
+.butom2{
+    text-align: center;
+    font-size: x-large;
+    
+}
+.tex1{
+    color: darkorange;
+    text-align: center;
+    font-size: xx-large;
+    background-color: aliceblue;
+}
+.h1au{
+    color: darkorange;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.idau{
+    text-align: center;
+}
+.tex0{
+    color: darkorange;
+    text-align: center;
+    font-size: xx-large;
+    background-color: slategray;
+}
+.text2{
+    
+    text-align: center;
+    font-size: large;
+}
+.bt{
+    text-align: center;
+}
+.container_form{
+    color: rgb(255, 140, 0);
+    background-color: rgba(169, 169, 169, 0.564);
+}
+
+.button_lg{
+
+    background: #0066A2;
+    
+    color: white;
+    
+    border-style: outset;
+    
+    border-color: #0066A2;
+    
+    height: 50px;
+    
+    width: 100px;
+    
+    font: bold 15px arial, sans-serif;
+    
+    text-shadow:none;
+    
+    }
